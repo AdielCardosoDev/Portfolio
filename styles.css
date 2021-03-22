@@ -135,6 +135,7 @@ body{
 
 @media (max-width: 540px){
     .container{ flex-direction: column; height: 500px; }
+    .foto{align-items: center; margin-left: none; margin: auto;}
 }
 
 @media (max-width: 280px){
